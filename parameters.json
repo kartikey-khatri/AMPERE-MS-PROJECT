@@ -1,0 +1,99 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "connections_azureblob_name": {
+            "value": null
+        },
+        "connections_office365_name": {
+            "value": null
+        },
+        "privateEndpoints_SQL_name": {
+            "value": null
+        },
+        "privateEndpoints_PNP_DEV_name": {
+            "value": null
+        },
+        "privateEndpoints_pnp_hublink_name": {
+            "value": null
+        },
+        "privateEndpoints_sqlondemand_name": {
+            "value": null
+        },
+        "privateEndpoints_pnp_datalake_name": {
+            "value": null
+        },
+        "privateEndpoints_pnp_keyvault_name": {
+            "value": null
+        },
+        "privateEndpoints_purview_portal_name": {
+            "value": null
+        },
+        "storageAccounts_adlsampnetsuite_name": {
+            "value": null
+        },
+        "workspaces_syn_bidw_prd_wus_001_name": {
+            "value": null
+        },
+        "privateEndpoints_purview_account_name": {
+            "value": null
+        },
+        "storageAccounts_sqlva3xtbxmupfntv2_name": {
+            "value": null
+        },
+        "storageAccounts_satoristorage3202023_name": {
+            "value": null
+        },
+        "storageAccounts_ampadlsproductionplus_name": {
+            "value": null
+        },
+        "privateLinkHubs_synapseprivatelinkhub_name": {
+            "value": null
+        },
+        "privateEndpoints_Synapseprivatelinkhub_name": {
+            "value": null
+        },
+        "metricAlerts_Pipeline_Failure_Notification_name": {
+            "value": null
+        },
+        "privateEndpoints_ampereproductionplusprivateendpoint_name": {
+            "value": null
+        },
+        "virtualNetworks_AMP_BIDW_EVENTS_RG_vnet_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_blob_core_windows_net_externalid": {
+            "value": null
+        },
+        "virtualNetworks_vnet_bidw_prd_wus_001_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_dfs_core_windows_net_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_dev_azuresynapse_net_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_azuresynapse_net_externalid": {
+            "value": null
+        },
+        "vaults_kv_bidw_prd_wus_001_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_vaultcore_azure_net_externalid": {
+            "value": null
+        },
+        "accounts_purview_bidw_prd_wus_001_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_purview_azure_com_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_purviewstudio_azure_com_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_sql_azuresynapse_net_externalid": {
+            "value": null
+        }
+    }
+}
